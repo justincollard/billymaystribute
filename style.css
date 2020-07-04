@@ -1,17 +1,18 @@
 body{
-    font-family: sans-serif;
+    font-family: "Alfa Slab One",sans-serif;
     color: white;
     background-color: #1b2865;
 }
 
 h1{
+    font-family: 'Nunito', sans-serif;
     text-align: center;
     font-size: 50px;
     border: 5px solid#fffd29 ;
 }
 
 h2{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Rock Salt', cursive;
     font-size: 35px;
     text-align: center;
 }
@@ -24,8 +25,11 @@ ul{
     list-style: none;
 }
 
+.date{
+    font-family: 'Times New Roman', Times, serif;
+}
 .memorium{
-    font-size: 35px;
+    font-size: 18px;
     text-align: center;
     
 }
